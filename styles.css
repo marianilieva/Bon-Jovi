@@ -1,0 +1,213 @@
+body
+    {
+        padding: 0%;
+        margin: 0%;
+        background-color: rgb(142, 78, 14);
+        color: rgb(237, 245, 236);
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+h2
+    {
+        margin: 5% 0% 3%;
+    }
+h3
+    {
+        margin-top: 0%;
+        font-size: 45%;
+    }
+h4
+    {
+        margin: 7%;
+        text-align: center;
+        font-size: 150%;
+    }
+p
+    {
+        padding: 0%;
+        margin: 0%;
+    }
+.add
+    {
+        margin: 30% 2% 0% 0%;
+        width: 100%;
+        height: 60%;
+
+    }
+.addons
+    {
+        font-size: 40%;
+    }
+.album
+    {
+        margin: 0% 1% 2%;
+        width: 31%;
+        height: 31%;
+        float: left;
+    }
+.albums
+    {
+        width: 100%;
+        height: 70%;
+    }
+.back
+    {
+        margin-bottom: 3%;
+        width: 100%;
+        height: 30%;
+    }
+.backLeft
+    {
+        width: 50%;
+        height: 100%;
+        float: left;
+    }
+.backPic
+    {
+        max-width: 100%;
+        max-height: 100%;
+
+    }
+.backRight
+    {
+        width: 49%;
+        height: 100%;
+        float: right;
+    }
+.bio
+    {
+        width: 100%;
+        height: 20%;
+        font-size: 50%;
+    }
+.clear
+    {
+        clear: both;
+    }
+.cover
+    {
+        width: 100%;
+        height: 85%;
+    }
+.header
+    {
+        margin-top: 2%;
+        width: 100%;
+        height: 30%;
+    }
+.headerImg
+    {
+        width: 95%;
+        border: 1px solid black;
+    }
+.headerLeft
+    {
+        width: 50%;
+        float: left;
+    }
+.headerRight
+    {
+        width: 49%;
+        float: right;
+        font-size: 45%;
+    }
+.left
+    {
+        width: 69%;
+        float: left;
+    }
+.logo
+    {
+        margin-top: 1%;
+        width: 100%;
+        max-height: 10%;
+    }
+.logo1
+    {
+        max-height: 100%;
+        width: 100%;
+    }
+.l1
+    {
+        height: 100%;
+        width: 10.167%;
+        float: left;
+    }
+.l2
+    {
+        height: 100%;
+        width: 22%;
+        float: left;
+    }
+.l3
+    {
+        height: 100%;
+        width: 10.05%;
+        float: left;
+    }
+.l4
+    {
+        height: 100%;
+        width: 21.8%;
+        float: left;
+    }
+.l5
+    {
+        height: 100%;
+        width: 13%;
+        float: left;
+    }
+.l6
+    {
+        height: 100%;
+        width: 10.2%;
+        float: left;
+    }
+.l7
+    {
+        height: 100%;
+        width: 10.2%;
+        float: left;
+    }
+.memberLeft
+    {
+        margin-bottom: 1%;
+        width: 49%;
+        height: 49%;
+        float: left;
+    }
+.memberRight
+    {
+        margin-bottom: 1%;
+        width: 49%;
+        height: 49%;
+        float: right;
+    }
+.members
+    {
+        width: 99%;
+        height: 60%;
+    }
+.name
+    {
+        margin: 0% 1%;
+        font-size: 60%;
+    }
+.pic
+    {
+        width: 100%;
+        max-height: 100%;
+    }
+.right
+    {
+        width: 30%;
+        float: right
+    }
+.star
+    {
+        max-width: 100%;
+        max-height: 60%;
+    }
+.whole
+    {
+        margin: 0% 10%;
+    }
